@@ -1,4 +1,4 @@
-# Calculadora Didatica
+# Calculadora Didática
 <h3> Repositório do projeto de uma calculadora didática de conversão entre bases e ponto flutuante de precisão simples e dupla </h3>
 
 - Enunciado da questão:
